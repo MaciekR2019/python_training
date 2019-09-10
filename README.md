@@ -1,1 +1,1 @@
-# python_training
+# Repozytorium utworzone na potrzeby szkolenia z programowania w języku python.
